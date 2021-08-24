@@ -9,9 +9,6 @@ background-image:linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)), url(../
 background-position: center;
 background-size: cover;
 }
-.cards{
-    opacity: .7;
-}
 footer{
     background-color: #343A40;
 }
